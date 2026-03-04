@@ -153,38 +153,18 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also open an issue with the tag `enhancement`. Don't forget to ⭐ the project — thanks!
 
-1. Fork the Project
-2. Create your Feature Branch
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your Changes
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. Push to the Branch
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. Open a Pull Request
 
 [🔝 back to top](#table-of-contents)
 
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-[🔝 back to top](#table-of-contents)
 
 ---
 
 ## Contact
 
-Your Name — [@your_twitter](https://twitter.com/your_twitter) — email@example.com
+Tarun Malepati
+(further details in my profile)
 
-Project Link: [https://github.com/your_username/pothole-detection](https://github.com/your_username/pothole-detection)
+Project Link: [[https://github.com/your_username/pothole-detection](https://github.com/your_username/pothole-detection)](https://github.com/TarunMalepati99/Pothole_detection)
 
 [🔝 back to top](#table-of-contents)
 
