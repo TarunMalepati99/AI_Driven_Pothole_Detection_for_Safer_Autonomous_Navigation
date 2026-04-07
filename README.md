@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/d996e787-34c0-4a9c-9949-620392179f27
 
 > Detect potholes in real-time, classify them by size, and send instructions to hardware to simulate car responses!
 
----
+--- 
 
 ## Table of Contents
 
